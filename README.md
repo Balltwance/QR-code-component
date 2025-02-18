@@ -7,27 +7,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![screenshot](/QR-code-component/images/screenshot.png)
+![screenshot](images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-O5ISRLdrns)
-- Live Site URL: [Add live site URL here](https://balltwance.github.io/QR-code-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-O5ISRLdrns](https://www.frontendmentor.io/solutions/qr-code-component-O5ISRLdrns)
+- Live Site URL: [https://balltwance.github.io/QR-code-component/](https://balltwance.github.io/QR-code-component/)
 
 <!-- ## My process
 
