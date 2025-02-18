@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/QR-code-component/images/screenshot.png)
+![screenshot](/QR-code-component/images/screenshot.png)
 
 
 ### Links
@@ -29,13 +29,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-O5ISRLdrns)
 - Live Site URL: [Add live site URL here](https://balltwance.github.io/QR-code-component/)
 
-## My process
+<!-- ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flexbox -->
 
 
 <!-- ### What I learned
@@ -44,7 +44,7 @@ Use this section to recap over some of your major learnings while working throug
 
 To see how you can add code snippets, see below: -->
 
-```html
+<!-- ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
 ```css
@@ -55,13 +55,4 @@ To see how you can add code snippets, see below: -->
 ```js
 const proudOfThisFunc = () => {
   console.log('🎉')
-}
-```
-
-
-<!-- ## Author -->
-
-<!-- - Website - [Add your name here](https://www.your-site.com) -->
-<!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
-
+} -->
